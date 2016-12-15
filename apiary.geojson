@@ -1,0 +1,35 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1,
+        "name": "Vahekoidu",
+        "address": "Vahekoidu tee 6, Koidu küla, Saue vald, Harju maakond, Estonia",
+        "code": "EE31636",
+        "hives": 3,
+        "hives-type": "farrar",
+        "colonies": 3,
+        "colonies-race": "italian",
+        "status": "operating",
+        "organic": false,
+        "picture": 
+        "beekeeper-name": "Tormi Tabor",
+        "beekeeper-id": "37201045716",
+        "beekeeper-phone": "+37254513000",
+        "beekeeper-email": "tormi.tabor@eesti.ee",
+        "company-name": "",
+        "company-code": "",
+        "datetime": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.589521288871765,
+          59.34385167658302
+        ]
+      }
+    }
+  ]
+}
