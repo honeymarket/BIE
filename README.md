@@ -1,5 +1,5 @@
 # Beekeeping Information Exchange (BIE) specification
-*{[edit](https://github.com/honeymarket/BIE/edit/master/README.md)}*
+*[Edit this file](https://github.com/honeymarket/BIE/edit/master/README.md)*
 
 ***The goal of this project is to develop the information exchange specification for beekeeping industry.** To cooperate, sign up as GiHub user and start filing [issues](https://github.com/honeymarket/BIM/issues) and/or [pull requests](https://github.com/honeymarket/BIM/pulls).*
 
