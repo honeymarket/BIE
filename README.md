@@ -14,7 +14,7 @@ any receptacle housing a honey bee colony or which has housed such a colony
 a person keeping bees
 
 ### Honey bee
-Apis mellifera
+*Apis mellifera*
 
 ### Honey bee colony
 a honey bee community consisting of queen, drones, workers and brood
