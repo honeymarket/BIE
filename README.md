@@ -1,6 +1,7 @@
 # Beekeeping Information Exchange (BIE) specification
+[*[edit this file](https://github.com/honeymarket/BIE/edit/master/README.md)*]
 
-***The goal of this project is to develop the information exchange specification for beekeeping industry.** [Edit this file](https://github.com/honeymarket/BIE/edit/master/README.md)*
+> **The goal of this project is to develop the information exchange specification for beekeeping industry.**
 
 ## Terms
 
@@ -26,4 +27,9 @@ the transfer of pollen by honey bees from anthers to stigmas of flowers for plan
 cluster or flying mass of honey bees, including workers, queen and drones
 
 
-Project coordinator: [@tormi](https://github.com/tormi)
+#### Project team
+- [@tormi](https://github.com/tormi)
+
+#### Supporters
+
+[![Honeymarket](http://honeymarket.com/HM_v.png)](http://honeymarket.com/)
