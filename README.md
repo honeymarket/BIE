@@ -35,4 +35,4 @@ cluster or flying mass of honey bees, including workers, queen and drones
 
 #### Supporters
 
-[![Honeymarket](http://honeymarket.com/logo.png)](http://honeymarket.com/)
+[![Honeymarket](http://honeymarket.com/logo_hall_tekst.png)](http://honeymarket.com/)
