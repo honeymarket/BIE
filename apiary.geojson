@@ -1,0 +1,34 @@
+{
+    "type": "FeatureCollection",
+    "features": [{
+        "type": "Feature",
+        "properties": {
+            "id": 1,
+            "name": "Vahekoidu",
+            "address": "Vahekoidu tee 6, Koidu küla, Saue vald, Harju maakond, Estonia",
+            "code": "EE31636",
+            "type": ["permanent", "migratory"],
+            "hive-count": 3,
+            "hive-type": ["farrar", "langstroth", "other"],
+            "colony-count": 3,
+            "colony-race": ["italian", "carnica", "other"],
+            "status": ["planned", "operating", "abandoned"],
+            "organic": [true, false],
+            "pictures": ["https://mesindus.ee/files/album/IMG_8188.JPG", ""],
+            "beekeeper-name": "Tormi Tabor",
+            "beekeeper-id": "37201045716",
+            "beekeeper-phone": "+37254513000",
+            "beekeeper-email": "tormi.tabor@eesti.ee",
+            "company-name": "Magus Mesi OÜ",
+            "company-code": "12345678",
+            "datetime": "2016-12-15T13:47:01+02:00"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                24.589521288871765,
+                59.34385167658302
+            ]
+        }
+    }]
+}
