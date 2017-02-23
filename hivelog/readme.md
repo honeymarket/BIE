@@ -1,0 +1,1 @@
+# hivelog.dk translations
